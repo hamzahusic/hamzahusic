@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Postgresql**
 
-- 👨‍💻 All of my projects are available at [https://hamzahusic.vercel.app/](https://hamzahusic.vercel.app/)
+- 👨‍💻 All of my projects will be available soon on [https://hamzahusic.vercel.app/](https://hamzahusic.vercel.app/)
 
 - 📫 How to reach me **hamzahusic.dev@gmail.com**
 
