@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Husić</h1>
-<h3 align="center">A passionate web developer from Bosnia and Herzegovina</h3>
+<h3 align="center">A passionate software engineer from Bosnia and Herzegovina</h3>
 
 - 🌱 I’m currently learning **PostgreSQL**
 
