@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **PostgreSQL**
 
-- 👨‍💻 All of my projects will be available soon at [https://hamzahusic.vercel.app/](https://hamzahusic.vercel.app/)
-
 - 📫 How to reach me **hamzahusic.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
